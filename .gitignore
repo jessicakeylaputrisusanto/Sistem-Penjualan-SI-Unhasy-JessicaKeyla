@@ -1,0 +1,28 @@
+# Java compiled files
+*.class
+
+# Build output
+target/
+build/
+out/
+
+# Local runtime data
+data-mahasiswa.dat
+
+# IDE and editor files
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+.env.*
+!.env.example
